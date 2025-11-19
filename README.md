@@ -1,7 +1,6 @@
 # Smart India Hackathon Workshop
-### Date:03/10/2025
-### Register Number:212224230225
-### Name:RAVIPRASATH K
+### Register Number:212224100033
+### Name:k hemanth yadav 
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
